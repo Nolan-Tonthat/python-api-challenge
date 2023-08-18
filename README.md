@@ -1,4 +1,5 @@
 # python-api-challenge
+UCB Week 6 Challenge
 
 ## Part 1: WeatherPy
 In this deliverable, you'll create a Python script to visualize the weather of over 500 cities of varying distances from the equator. You'll use the [citipy Python library](https://pypi.org/project/citipy/), the [OpenWeatherMap API](https://openweathermap.org/api), and your problem-solving skills to create a representative model of weather across cities.
